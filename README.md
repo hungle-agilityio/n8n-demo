@@ -55,6 +55,12 @@ This project contains custom nodes for n8n, including the new `CityWeather` node
   ```
 - Note: Restart docker for local n8n
 
+## Example Workflow with CityWeather node
+
+Below is an example workflow using the `CityWeather` node:
+
+![n8n Workflow with CityWeather Node](assets/n8n-workflow-with-city-weather-node.png)
+
 ## Contributing
 
 Feel free to open issues or submit pull requests to improve this repository.
