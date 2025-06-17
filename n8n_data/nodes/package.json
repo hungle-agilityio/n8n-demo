@@ -1,5 +1,7 @@
 {
   "name": "installed-nodes",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "n8n-nodes-chatwoot": "0.1.40"
+  }
 }

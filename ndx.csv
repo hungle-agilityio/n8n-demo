@@ -1,0 +1,607 @@
+﻿Category,Theme,Sub-theme
+Doctor,Courtesy and Respect,Empathy/Compassion
+Doctor,Courtesy and Respect,Kind
+Doctor,Courtesy and Respect,Helpful
+Doctor,Courtesy and Respect,Patience
+Doctor,Courtesy and Respect,Attentive
+Doctor,Courtesy and Respect,Comfortable (Emotional)
+Doctor,Courtesy and Respect,Courteous
+Doctor,Courtesy and Respect,Bedside Manner
+Doctor,Courtesy and Respect,Pleasant
+Doctor,Courtesy and Respect,Emotional Comfort
+Doctor,Courtesy and Respect,Respect
+Doctor,Courtesy and Respect,Cared For
+Doctor,Courtesy and Respect,Polite
+Doctor,Courtesy and Respect,Understanding
+Doctor,Courtesy and Respect,Support (Emotional)
+Doctor,Courtesy and Respect,Sense of Humor
+Doctor,Courtesy and Respect,Emotional Warmth
+Doctor,Courtesy and Respect,Attitude/Bedside Manner
+Doctor,Courtesy and Respect,Honest
+Doctor,Courtesy and Respect,Good Attitude
+Doctor,Courtesy and Respect,Greeting
+Doctor,Courtesy and Respect,Privacy
+Doctor,Courtesy and Respect,Treatment Plan Comfort (Emotional)
+Doctor,Courtesy and Respect,Trust
+Doctor,Courtesy and Respect,Needs Accommodation
+Doctor,Courtesy and Respect,Condescending
+Doctor,Courtesy and Respect,Rude
+Doctor,Courtesy and Respect,Staff Checkin
+Doctor,Courtesy and Respect,Pressure (Emotional)
+Doctor,Courtesy and Respect,Blame
+Doctor,Courtesy and Respect,Trust/Blame
+Doctor,Skill/Knowledge,Professional
+Doctor,Skill/Knowledge,Knowledge
+Doctor,Skill/Knowledge,Thorough
+Doctor,Skill/Knowledge,Competence
+Doctor,Skill/Knowledge,Experienced/Educated
+Doctor,Skill/Knowledge,Dedication
+Doctor,Skill/Knowledge,Memory/Keeping Track
+Doctor,Skill/Knowledge,Coordinated
+Doctor,Skill/Knowledge,Organized
+Doctor,Skill/Knowledge,Risky
+Doctor,Skill/Knowledge,Diligence
+Doctor,Skill/Knowledge,Coordination
+Doctor,Skill/Knowledge,Forgot
+Doctor,Skill/Knowledge,Mistake
+Doctor,Skill/Knowledge,Effective
+Doctor,Reliability and Scheduling,Time Period/Duration
+Doctor,Reliability and Scheduling,Pace of Work/Availability
+Doctor,Reliability and Scheduling,Attitude
+Doctor,Reliability and Scheduling,Appointment/Reservation
+Doctor,Reliability and Scheduling,Efficiency
+Doctor,Reliability and Scheduling,Rushed
+Doctor,Reliability and Scheduling,Prompt
+Doctor,Reliability and Scheduling,Wait/Timing
+Doctor,Reliability and Scheduling,Scheduling
+Doctor,Reliability and Scheduling,Frequency
+Doctor,Reliability and Scheduling,Available
+Doctor,Reliability and Scheduling,Busy
+Doctor,Reliability and Scheduling,Reliable
+Doctor,Reliability and Scheduling,Waiting on Something
+Doctor,Reliability and Scheduling,Predictable
+Doctor,Reliability and Scheduling,Time of Day
+Doctor,Reliability and Scheduling,Bothered/Annoyed
+Doctor,Reliability and Scheduling,Interruption
+Doctor,Reliability and Scheduling,Other Reliability and Scheduling
+Doctor,Explanation,Question Answer
+Doctor,Explanation,Informative
+Doctor,Explanation,Diagnosis
+Doctor,Explanation,Clarity
+Doctor,Explanation,Vocabulary
+Doctor,Explanation,Care Plan
+Doctor,Explanation,Time Period/Duration
+Doctor,Explanation,"Wait/Timing,"
+Doctor,Explanation,Prompt
+Doctor,Explanation,Status Updates
+Doctor,Explanation,Conflicting
+Doctor,Explanation,Better Informed
+Doctor,Explanation,Unanswered
+Doctor,Explanation,Explanation Absence
+Doctor,Listening,Patience
+Doctor,Listening,Empathy/Compassion
+Doctor,Listening,Kind
+Doctor,Listening,Helpful
+Doctor,Listening,Attentive
+Doctor,Listening,Question Asked
+Doctor,Listening,Careful Listening
+Doctor,Listening,Prompt
+Doctor,Listening,Wait/Timing
+Doctor,Listening,Respect
+Doctor,Listening,Bedside Manner
+Doctor,Listening,Time Period/Duration
+Doctor,Listening,Courteous
+Doctor,Listening,Honest
+Doctor,Listening,Pleasant
+Doctor,Listening,Understanding
+Doctor,Listening,Sense of Humor
+Doctor,Listening,Good Attitude
+Doctor,Listening,Polite
+Doctor,Listening,Attitude/Bedside Manner
+Staff,Courtesy and Respect,Kind
+Staff,Courtesy and Respect,Helpful
+Staff,Courtesy and Respect,Empathy/Compassion
+Staff,Courtesy and Respect,Courteous
+Staff,Courtesy and Respect,Attentive
+Staff,Courtesy and Respect,Pleasant
+Staff,Courtesy and Respect,Polite
+Staff,Courtesy and Respect,Comfortable (Emotional)
+Staff,Courtesy and Respect,Respect
+Staff,Courtesy and Respect,Patience
+Staff,Courtesy and Respect,Emotional Comfort
+Staff,Courtesy and Respect,Support (Emotional)
+Staff,Courtesy and Respect,Greeting
+Staff,Courtesy and Respect,Cared For
+Staff,Courtesy and Respect,Emotional Warmth
+Staff,Courtesy and Respect,Understanding
+Staff,Courtesy and Respect,Good Attitude
+Staff,Courtesy and Respect,Privacy
+Staff,Courtesy and Respect,Sense of Humor
+Staff,Courtesy and Respect,Attitude/Bedside Manner
+Staff,Courtesy and Respect,Staff Checkin
+Staff,Courtesy and Respect,Bedside Manner
+Staff,Courtesy and Respect,Hospitable
+Staff,Courtesy and Respect,Needs Accommodation
+Staff,Courtesy and Respect,Treatment Plan Comfort (Emotional)
+Staff,Courtesy and Respect,Rude
+Staff,Courtesy and Respect,Honest
+Staff,Courtesy and Respect,Trust
+Staff,Courtesy and Respect,Blame
+Staff,Courtesy and Respect,Pressure (Emotional)
+Staff,Courtesy and Respect,Consent
+Staff,Courtesy and Respect,Trust/Blame
+Staff,Courtesy and Respect,Condescending
+Staff,Skill/Knowledge,Professional
+Staff,Skill/Knowledge,Knowledge
+Staff,Skill/Knowledge,Competence
+Staff,Skill/Knowledge,Thorough
+Staff,Skill/Knowledge,Organized
+Staff,Skill/Knowledge,Dedication
+Staff,Skill/Knowledge,Experienced/Educated
+Staff,Skill/Knowledge,Memory/Keeping Track
+Staff,Skill/Knowledge,Coordinated
+Staff,Skill/Knowledge,Diligence
+Staff,Skill/Knowledge,Coordination
+Staff,Skill/Knowledge,Mistake
+Staff,Skill/Knowledge,Forgot
+Staff,Skill/Knowledge,Risky
+Staff,Skill/Knowledge,Effective
+Staff,Listening,Kind
+Staff,Listening,Helpful
+Staff,Listening,Patience
+Staff,Listening,Empathy/Compassion
+Staff,Listening,Attentive
+Staff,Listening,Question Asked
+Staff,Listening,Polite
+Staff,Listening,Respect
+Staff,Listening,Careful Listening
+Staff,Listening,Courteous
+Staff,Listening,Prompt
+Staff,Listening,Wait/Timing
+Staff,Listening,Time Period/Duration
+Staff,Listening,Bedside Manner
+Staff,Listening,Pleasant
+Staff,Listening,Attitude/Bedside Manner
+Staff,Reliability and Scheduling,Efficiency
+Staff,Reliability and Scheduling,Pace of Work/Availability
+Staff,Reliability and Scheduling,Attitude
+Staff,Reliability and Scheduling,Appointment/Reservation
+Staff,Reliability and Scheduling,Prompt
+Staff,Reliability and Scheduling,Scheduling
+Staff,Reliability and Scheduling,Wait/Timing
+Staff,Reliability and Scheduling,Time Period/Duration
+Staff,Reliability and Scheduling,Busy
+Staff,Reliability and Scheduling,Frequency
+Staff,Reliability and Scheduling,Available
+Staff,Reliability and Scheduling,Rushed
+Staff,Reliability and Scheduling,Reliable
+Staff,Reliability and Scheduling,Waiting on Something
+Staff,Reliability and Scheduling,Bothered/Annoyed
+Staff,Reliability and Scheduling,Predictable
+Staff,Reliability and Scheduling,Overworked
+Staff,Reliability and Scheduling,Time of Day
+Staff,Reliability and Scheduling,Alert/Notification
+Staff,Reliability and Scheduling,Slow
+Staff,Reliability and Scheduling,Other Reliability and Scheduling
+Staff,Staff Type,Reception
+Staff,Staff Type,Janitorial and Housekeeping Staff
+Staff,Staff Type,Radiology Tech
+Staff,Staff Type,Meal Servers
+Staff,Staff Type,X-Ray Tech
+Staff,Staff Type,Social Worker
+Staff,Staff Type,Kitchen Staff
+Staff,Staff Type,Intern
+Staff,Staff Type,Lactation Consultant
+Staff,Staff Type,Case Manager
+Staff,Staff Type,Ambassador
+Staff,Explanation,Informative
+Staff,Explanation,Question Answer
+Staff,Explanation,Status Updates
+Staff,Explanation,Diagnosis
+Staff,Explanation,Prompt
+Staff,Explanation,Time Period/Duration
+Staff,Explanation,Wait/Timing
+Staff,Explanation,Better Informed
+Staff,Explanation,Clarity
+Staff,Explanation,Explanation Absence
+Staff,Explanation,Conflicting
+Staff,Explanation,Vocabulary
+Staff,Explanation,Waiting on Something
+Staff,Explanation,Care Plan
+Staff,Explanation,English
+Staff,Explanation,Spanish
+Staff,Explanation,Unanswered
+Nurse,Courtesy and Respect,Kind
+Nurse,Courtesy and Respect,Empathy/Compassion
+Nurse,Courtesy and Respect,Helpful
+Nurse,Courtesy and Respect,Attentive
+Nurse,Courtesy and Respect,Courteous
+Nurse,Courtesy and Respect,Comfortable (Emotional)
+Nurse,Courtesy and Respect,Pleasant
+Nurse,Courtesy and Respect,Patience
+Nurse,Courtesy and Respect,Polite
+Nurse,Courtesy and Respect,Emotional Comfort
+Nurse,Courtesy and Respect,Respect
+Nurse,Courtesy and Respect,Cared For
+Nurse,Courtesy and Respect,Support (Emotional)
+Nurse,Courtesy and Respect,Sense of Humor
+Nurse,Courtesy and Respect,Greeting
+Nurse,Courtesy and Respect,Understanding
+Nurse,Courtesy and Respect,Emotional Warmth
+Nurse,Courtesy and Respect,Bedside Manner
+Nurse,Courtesy and Respect,Staff Checkin
+Nurse,Courtesy and Respect,Good Attitude
+Nurse,Courtesy and Respect,Privacy
+Nurse,Courtesy and Respect,Attitude/Bedside Manner
+Nurse,Courtesy and Respect,Rude
+Nurse,Courtesy and Respect,Honest
+Nurse,Courtesy and Respect,Treatment Plan Comfort (Emotional)
+Nurse,Courtesy and Respect,Needs Accommodation
+Nurse,Courtesy and Respect,Mean
+Nurse,Courtesy and Respect,Pressure (Emotional)
+Nurse,Courtesy and Respect,Consent
+Nurse,Courtesy and Respect,Inappropriate
+Nurse,Courtesy and Respect,Hospitable
+Nurse,Courtesy and Respect,Trust/Blame
+Nurse,Courtesy and Respect,Medication Documentation
+Nurse,Skill/Knowledge,Professional
+Nurse,Skill/Knowledge,Knowledge
+Nurse,Skill/Knowledge,Thorough
+Nurse,Skill/Knowledge,Competence
+Nurse,Skill/Knowledge,Memory/Keeping Track
+Nurse,Skill/Knowledge,Experienced/Educated
+Nurse,Skill/Knowledge,Dedication
+Nurse,Skill/Knowledge,Forgot
+Nurse,Skill/Knowledge,Organized
+Nurse,Skill/Knowledge,Coordination
+Nurse,Skill/Knowledge,Diligence
+Nurse,Skill/Knowledge,Coordinated
+Nurse,Skill/Knowledge,Mistake
+Nurse,Skill/Knowledge,Effective
+Nurse,Reliability and Scheduling,Pace of Work/Availability
+Nurse,Reliability and Scheduling,Attitude
+Nurse,Reliability and Scheduling,Efficiency
+Nurse,Reliability and Scheduling,Prompt
+Nurse,Reliability and Scheduling,Wait/Timing
+Nurse,Reliability and Scheduling,Appointment/Reservation
+Nurse,Reliability and Scheduling,Frequency
+Nurse,Reliability and Scheduling,Time Period/Duration
+Nurse,Reliability and Scheduling,Busy
+Nurse,Reliability and Scheduling,Scheduling
+Nurse,Reliability and Scheduling,Rushed
+Nurse,Reliability and Scheduling,Reliable
+Nurse,Reliability and Scheduling,Available
+Nurse,Reliability and Scheduling,Overworked
+Nurse,Reliability and Scheduling,Waiting on Something
+Nurse,Reliability and Scheduling,Bothered/Annoyed
+Nurse,Reliability and Scheduling,Predictable
+Nurse,Reliability and Scheduling,Slow
+Nurse,Reliability and Scheduling,Interruption
+Nurse,Reliability and Scheduling,Alert/Notification
+Nurse,Explanation,Informative
+Nurse,Explanation,Question Answer
+Nurse,Explanation,Status Updates
+Nurse,Explanation,Wait/Timing
+Nurse,Explanation,Prompt
+Nurse,Explanation,Diagnosis
+Nurse,Explanation,Time Period/Duration
+Nurse,Explanation,Clarity
+Nurse,Explanation,Better Informed
+Nurse,Explanation,Conflicting
+Nurse,Explanation,Vocabulary
+Nurse,Explanation,Explanation Absence
+Nurse,Explanation,Care Plan
+Nurse,Explanation,Spanish
+Nurse,Explanation,Unanswered
+Nurse,Explanation,Waiting on Something
+Nurse,Explanation,English
+Nurse,Listening,Kind
+Nurse,Listening,Empathy/Compassion
+Nurse,Listening,Attentive
+Nurse,Listening,Patience
+Nurse,Listening,Helpful
+Nurse,Listening,Question Asked
+Nurse,Listening,Polite
+Nurse,Listening,Courteous
+Nurse,Listening,Prompt
+Nurse,Listening,Careful Listening
+Nurse,Listening,Respect
+Nurse,Listening,Wait/Timing
+Nurse,Listening,Pleasant
+Nurse,Listening,Time Period/Duration
+Nurse,Listening,Honest
+Test and Treatment,Test or Treatment Type,Intravenous Therapy(lV)
+Test and Treatment,Test or Treatment Type,Surgery
+Test and Treatment,Test or Treatment Type,Drawing Blood
+Test and Treatment,Test or Treatment Type,X-Ray
+Test and Treatment,Test or Treatment Type,Time Period/Duration
+Test and Treatment,Test or Treatment Type,CT Scan
+Test and Treatment,Test or Treatment Type,Blood Test
+Test and Treatment,Test or Treatment Type,waltTiming
+Test and Treatment,Test or Treatment Type,Waiting on Something
+Test and Treatment,Test or Treatment Type,Anesthesia/Sedation
+Test and Treatment,Test or Treatment Type,MRI
+Test and Treatment,Test or Treatment Type,Ultrasound
+Test and Treatment,Test or Treatment Type,EKG/Electrocardiogram
+Test and Treatment,Test or Treatment Type,Prompt
+Test and Treatment,Test or Treatment Type,Mammogram
+Test and Treatment,Test or Treatment Type,Physical Therapy
+Test and Treatment,Test or Treatment Type,Dental Cleaning
+Test and Treatment,Test or Treatment Type,Biopsy
+Test and Treatment,Test or Treatment Type,interruption
+Test and Treatment,Test or Treatment Type,Cathetenzation
+Test and Treatment,Test or Treatment Type,Cavity Treatment
+Test and Treatment,Test or Treatment Type,Stress Test
+Test and Treatment,Test or Treatment Type,Hospice/Palliative Care
+Test and Treatment,Explanation,Time Period/Duration
+Test and Treatment,Explanation,Better Informed
+Test and Treatment,Explanation,Explanation Absence
+Test and Treatment,Explanation,Diagnosis
+Test and Treatment,Explanation,Wait/Timing
+Test and Treatment,Explanation,Waiting on Something
+Test and Treatment,Explanation,Status Updates
+Test and Treatment,Explanation,Conflicting
+Test and Treatment,Explanation,Vocabulary
+Test and Treatment,Explanation,Care Plan
+Test and Treatment,Explanation,Prompt
+Test and Treatment,Explanation,Unanswered
+Test and Treatment,Explanation,Informative
+Test and Treatment,Explanation,Clarity
+Test and Treatment,Explanation,Question Answer
+Test and Treatment,Explanation,Spanish
+Test and Treatment,Explanation,Needs Accommodation
+Test and Treatment,Explanation,Interruption
+Test and Treatment,Test Result Process,Test Result
+Test and Treatment,Test Result Process,Time Period/Duration
+Test and Treatment,Test Result Process,Waiting on Something
+Test and Treatment,Test Result Process,Wait/Timing
+Test and Treatment,Test Result Process,Prompt
+Test and Treatment,Test Result Process,Interruption
+Test and Treatment,Reliability and Scheduling,Time Period/Duration
+Test and Treatment,Reliability and Scheduling,Scheduling
+Test and Treatment,Reliability and Scheduling,Wait/Timing
+Test and Treatment,Reliability and Scheduling,Frequency
+Test and Treatment,Reliability and Scheduling,Appointment/Reservation
+Test and Treatment,Reliability and Scheduling,Waiting on Something
+Test and Treatment,Reliability and Scheduling,Rushed
+Test and Treatment,Reliability and Scheduling,Pace of Work/Availability
+Test and Treatment,Reliability and Scheduling,Attitude
+Test and Treatment,Reliability and Scheduling,Available
+Test and Treatment,Reliability and Scheduling,Slow
+Test and Treatment,Reliability and Scheduling,Prompt
+Test and Treatment,Reliability and Scheduling,Busy
+Test and Treatment,Reliability and Scheduling,Bothered/Annoyed
+Test and Treatment,Reliability and Scheduling,Predictable
+Test and Treatment,Reliability and Scheduling,Interruption
+Test and Treatment,Reliability and Scheduling,Time of Day
+Test and Treatment,Reliability and Scheduling,Reliable
+Test and Treatment,Reliability and Scheduling,Efficiency
+Cleanliness,Environment and Personal (Cleanliness),Staff Hygiene
+Cleanliness,Environment and Personal (Cleanliness),Showering
+Cleanliness,Environment and Personal (Cleanliness),Patient Personal Hygiene
+Cleanliness,Environment and Personal (Cleanliness),Personal Hygiene
+Cleanliness,Environment and Personal (Cleanliness),Bed/Linen Change
+Cleanliness,Environment and Personal (Cleanliness),Toilet
+Cleanliness,Environment and Personal (Cleanliness),Clean/Brush Teeth
+Cleanliness,Environment and Personal (Cleanliness),IV (Medical Device)
+Cleanliness,Environment and Personal (Cleanliness),Catheter
+Cleanliness,Environment and Personal (Cleanliness),Bedpan
+Cleanliness,Environment and Personal (Cleanliness),Port (Medical Device)
+Cleanliness,Environment and Personal (Cleanliness),Other Environment and Personal (Cleanliness)
+Cleanliness,Reliability and Scheduling,Frequency
+Cleanliness,Reliability and Scheduling,Wait/Timing
+Cleanliness,Reliability and Scheduling,Time Period/Duration
+Cleanliness,Reliability and Scheduling,Available
+Cleanliness,Reliability and Scheduling,Pace of Work/Availability
+Cleanliness,Reliability and Scheduling,Attitude
+Cleanliness,Reliability and Scheduling,Appointment/Reservation
+Cleanliness,Reliability and Scheduling,Slow
+Cleanliness,Reliability and Scheduling,Busy
+Cleanliness,Reliability and Scheduling,Rushed
+Cleanliness,Reliability and Scheduling,Reliable
+Cleanliness,Reliability and Scheduling,Waiting on Something
+Cleanliness,Reliability and Scheduling,Overworked
+Cleanliness,Reliability and Scheduling,Prompt
+Cleanliness,Reliability and Scheduling,Efficiency
+Cleanliness,Reliability and Scheduling,Bothered/Annoyed
+Cleanliness,Reliability and Scheduling,Scheduling
+Cleanliness,Reliability and Scheduling,Predictable
+Cleanliness,Reliability and Scheduling,Time Period/Duration
+Cleanliness,Reliability and Scheduling,Scheduling
+Cleanliness,Reliability and Scheduling,Wait/Timing
+Cleanliness,Reliability and Scheduling,Frequency
+Cleanliness,Reliability and Scheduling,Appointment/Reservation
+Cleanliness,Reliability and Scheduling,Waiting on Something
+Cleanliness,Reliability and Scheduling,Rushed
+Cleanliness,Reliability and Scheduling,Pace of Work/Availability
+Cleanliness,Reliability and Scheduling,Attitude
+Cleanliness,Reliability and Scheduling,Available
+Cleanliness,Reliability and Scheduling,Slow
+Cleanliness,Reliability and Scheduling,Prompt
+Cleanliness,Reliability and Scheduling,Busy
+Cleanliness,Reliability and Scheduling,Bothered/Annoyed
+Cleanliness,Reliability and Scheduling,Predictable
+Cleanliness,Reliability and Scheduling,Interruption
+Cleanliness,Reliability and Scheduling,Time of Day
+Cleanliness,Reliability and Scheduling,Reliable
+Cleanliness,Reliability and Scheduling,Efficiency
+Meals,Meal Quality,Taste
+Meals,Meal Quality,Cold
+Meals,Meal Quality,Low Quality
+Meals,Meal Quality,Comparative Quality
+Meals,Meal Quality,Bland
+Meals,Meal Quality,Hot
+Meals,Meal Quality,Temperature
+Meals,Meal Quality,Bitter
+Meals,Meal Quality,Gourmet
+Meals,Meal Quality,Savory
+Meals,Meal Content,Options (Meal)
+Meals,Meal Content,Meat
+Meals,Meal Content,Menu
+Meals,Meal Content,Vegetarian
+Meals,Meal Content,Not Enough
+Meals,Meal Content,Liquid Diet
+Meals,Meal Content,Butter/Margarine
+Meals,Meal Content,Too Much
+Meals,Meal Content,Kosher
+Meals,Meal Content,Other Meal Content
+Meals,Meal Service,Time Period/Duration
+Meals,Meal Service,Wait/Timing
+Meals,Meal Service,Meal Ordering
+Meals,Meal Service,Waiting on Something
+Meals,Meal Service,Prompt
+Meals,Meal Service,Interruption
+Meals,Meal Service,Other Meal Service
+Meals,Reliability and Scheduling,Frequency
+Meals,Reliability and Scheduling,Available
+Meals,Reliability and Scheduling,Time Period/Duration
+Meals,Reliability and Scheduling,Appointment/Reservation
+Meals,Reliability and Scheduling,Pace of Work/Availability
+Meals,Reliability and Scheduling,Attitude
+Meals,Reliability and Scheduling,Wait/Timing
+Meals,Reliability and Scheduling,Scheduling
+Meals,Reliability and Scheduling,Rushed
+Meals,Reliability and Scheduling,Reliable
+Meals,Reliability and Scheduling,Slow
+Meals,Reliability and Scheduling,Waiting on Something
+Meals,Reliability and Scheduling,Busy
+Meals,Reliability and Scheduling,Bothered/Annoyed
+Meals,Reliability and Scheduling,Predictable
+Meals,Reliability and Scheduling,Prompt
+Meals,Reliability and Scheduling,Time of Day
+Meals,Reliability and Scheduling,Overworked
+Meals,Reliability and Scheduling,Interruption
+Meals,Reliability and Scheduling,Efficiency
+Meals,Reliability and Scheduling,Other Reliability and Scheduling
+Administration and Logistics,Billing and Insurance,Cost
+Administration and Logistics,Billing and Insurance,Insurance
+Administration and Logistics,Billing and Insurance,Copay
+Administration and Logistics,Billing and Insurance,Network
+Administration and Logistics,Billing and Insurance,Error (Billing)
+Administration and Logistics,Billing and Insurance,Deductible
+Administration and Logistics,Billing and Insurance,Premium
+Administration and Logistics,Interactive Technology,Telephone System
+Administration and Logistics,Interactive Technology,Appointment/Reservation
+Administration and Logistics,Interactive Technology,Patient Portal
+Administration and Logistics,Interactive Technology,Email
+Administration and Logistics,Interactive Technology,Scheduling
+Administration and Logistics,Interactive Technology,Room Tv/Computer
+Administration and Logistics,Interactive Technology,Time of Day
+Administration and Logistics,Interactive Technology,Other Interactive Technolog
+Administration and Logistics,Navigation (Facility),Locating/Located
+Administration and Logistics,Navigation (Facility),Wheelchair
+Administration and Logistics,Navigation (Facility),Parking
+Administration and Logistics,Navigation (Facility),Directions/Signage
+Administration and Logistics,Navigation (Facility),Time Period/Duration
+Administration and Logistics,Navigation (Facility),Parking Lot/Location
+Administration and Logistics,Navigation (Facility),Escort/Helper
+Administration and Logistics,Navigation (Facility),Waiting on Something
+Administration and Logistics,Navigation (Facility),Wait/Timing
+Administration and Logistics,Navigation (Facility),Opening Door
+Administration and Logistics,Navigation (Facility),Distance
+Administration and Logistics,Navigation (Facility),Prompt
+Administration and Logistics,Navigation (Facility),Ramp/Platform
+Administration and Logistics,Navigation (Facility),Parking Cost
+Administration and Logistics,Navigation (Facility),Interruption
+Room/Bathroom,Physical Comfort,Cold
+Room/Bathroom,Physical Comfort,Blanket (Warmth)
+Room/Bathroom,Physical Comfort,Small (Room)
+Room/Bathroom,Physical Comfort,Comfortable (Physical)
+Room/Bathroom,Physical Comfort,Air Conditioner
+Room/Bathroom,Physical Comfort,Hot
+Room/Bathroom,Physical Comfort,Temperature
+Room/Bathroom,Physical Comfort,Time Period/Duration
+Room/Bathroom,Physical Comfort,Wait/Timing
+Room/Bathroom,Physical Comfort,Big (Room)
+Room/Bathroom,Physical Comfort,Waiting on Something
+Room/Bathroom,Physical Comfort,Space/Size
+Room/Bathroom,Physical Comfort,Heater
+Room/Bathroom,Physical Comfort,Hot Water (Bathing)
+Room/Bathroom,Physical Comfort,Bathing (Comfort)
+Room/Bathroom,Physical Comfort,Prompt
+Room/Bathroom,Physical Comfort,Comfort Amount (Physical)
+Room/Bathroom,Physical Comfort,IV (Medical Device)
+Room/Bathroom,Physical Comfort,Interruption
+Room/Bathroom,Environment and Personal (Cleanliness),Staff Hygiene
+Room/Bathroom,Environment and Personal (Cleanliness),Showering
+Room/Bathroom,Environment and Personal (Cleanliness),Toilet
+Room/Bathroom,Environment and Personal (Cleanliness),Personal Hygiene
+Room/Bathroom,Environment and Personal (Cleanliness),Patient Personal Hygiene
+Room/Bathroom,Environment and Personal (Cleanliness),Bed/Linen Change
+Room/Bathroom,Environment and Personal (Cleanliness),Clean/Brush Teeth
+Room/Bathroom,Environment and Personal (Cleanliness),IV (Medical Device)
+Room/Bathroom,Environment and Personal (Cleanliness),Catheter
+Room/Bathroom,Environment and Personal (Cleanliness),Other Environment and Personal (Cleanliness)
+Room/Bathroom,Room Availability,Waiting on Something
+Room/Bathroom,Room Availability,Available Room
+Room/Bathroom,Room Availability,Time Period/Duration
+Room/Bathroom,Room Availability,Wait/Timing
+Room/Bathroom,Room Availability,Prompt
+Room/Bathroom,Environment Quietness,Voices (Noise)
+Room/Bathroom,Environment Quietness,Other Patient (Noise)
+Room/Bathroom,Environment Quietness,Roommate Noise
+Room/Bathroom,Environment Quietness,Profanity (Noise)
+Room/Bathroom,Entertainment,Television (Entertainment)
+Room/Bathroom,Entertainment,Wait/Timing
+Room/Bathroom,Entertainment,Time Period/Duration
+Room/Bathroom,Entertainment,Waiting on Something
+Room/Bathroom,Entertainment,Prompt
+Room/Bathroom,Environment (Appearance),Light
+Room/Bathroom,Environment (Appearance),Decor
+Room/Bathroom,Environment (Appearance),Happy/Cheerful
+Room/Bathroom,Environment (Appearance),Neat
+Medication,Medication Logistics and Consent,Time Period/Duration
+Medication,Medication Logistics and Consent,Wait/Timing
+Medication,Medication Logistics and Consent,Waiting on Something
+Medication,Medication Logistics and Consent,Consent
+Medication,Medication Logistics and Consent,Prompt
+Medication,Medication Logistics and Consent,Medication Documentation
+Medication,Medication Logistics and Consent,Interruption
+Medication,Medication Logistics and Consent,Documentation (Signing)
+Medication,Medication Logistics and Consent,Medication Names
+Medication,Medication Logistics and Consent,Other Medication Logistics and Consent
+Medication,Side Effect Description,Time Period/Duration
+Medication,Side Effect Description,Wait/Timing
+Medication,Side Effect Description,Prompt
+Medication,Side Effect Description,Waiting on Something
+Discharge,Discharge Process,Time Period/Duration
+Discharge,Discharge Process,Wait/Timing
+Discharge,Discharge Process,Waiting on Something
+Discharge,Discharge Process,Prompt
+Discharge,Discharge Process,Medicare
+Discharge,Discharge Process,Interruption
+Discharge,Discharge Process,Rushed
+Discharge,Discharge Process,Slow
+Discharge,Discharge Process,Pace of Work/Availability
+Discharge,Discharge Process,Attitude
+Discharge,Discharge Process,Appointment/Reservation
+Discharge,Discharge Process,Frequency
+Discharge,Discharge Process,Available
+Discharge,Discharge Process,Busy
+Discharge,Discharge Process,Scheduling
+Discharge,Discharge Process,Predictable
+Discharge,Discharge Process,Prompt
+Discharge,Discharge Process,Bothered/Annoyed
+Discharge,Discharge Process,Reliable
+Discharge,Discharge Process,Efficiency
+Discharge,Discharge Process,Overworked
+Discharge,Discharge Process,Time of Day
+Discharge,Medication Logistics and Consent,Time Period/Duration
+Discharge,Medication Logistics and Consent,Wait/Timing
+Discharge,Medication Logistics and Consent,Waiting on Something
+Discharge,Medication Logistics and Consent,Medication Documentation
+Discharge,Medication Logistics and Consent,Prompt
+Discharge,Medication Logistics and Consent,Consent
+Discharge,Medication Logistics and Consent,Documentation (Signing)
+Discharge,Medication Logistics and Consent,Interruption
+Discharge,Medication Logistics and Consent,Other Medication Logistics and Consent
+Discharge,Care Information (Discharge),Wait/Timing
+Discharge,Care Information (Discharge),Time Period/Duration
+Discharge,Care Information (Discharge),Diagnosis
+Discharge,Care Information (Discharge),Waiting on Something
+Discharge,Care Information (Discharge),Other Care Information (Discharge)
+Pain,Pain Control,Time Period/Duration
+Pain,Pain Control,Wait/Timing
+Pain,Pain Control,Waiting on Something
+Pain,Pain Control,Complaint
+Pain,Pain Control,Prompt
